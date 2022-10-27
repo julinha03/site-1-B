@@ -1,0 +1,29 @@
+#pagina{
+    margin:150px;
+}
+#cabecalho,#esquerda,#centro,#direita,#rodape{
+    background-color: beige;
+    margin: 10px;
+}
+#cabecalho{
+    height: 150px;
+}
+#esquerda {
+    width: 20%;
+    height: 500px;
+    float: left;
+}
+#centro{
+    width: 55%;
+    height: 500px;
+    float: left;
+}
+#direita{
+    width: 20%;
+    height: 500px;
+    float: right;
+}
+#rodape{
+    height: 50px;
+    background-color: beige;
+}
